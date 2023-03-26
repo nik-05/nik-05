@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Nikhil<br>- 👀 I’m interested in Mobile and Web Development<br>- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Nikhil<br>- 👀 Experienced Web & Mobile Developer<br>- 🌱 ...
 
 
 ## 🌐 Socials:
